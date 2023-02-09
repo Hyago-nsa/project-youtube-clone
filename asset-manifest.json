@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/project-youtube-clone/static/css/main.7064deb2.css",
-    "main.js": "/project-youtube-clone/static/js/main.bfd910ce.js",
-    "index.html": "/project-youtube-clone/index.html",
-    "main.7064deb2.css.map": "/project-youtube-clone/static/css/main.7064deb2.css.map",
-    "main.bfd910ce.js.map": "/project-youtube-clone/static/js/main.bfd910ce.js.map"
+    "main.css": "/static/css/main.7064deb2.css",
+    "main.js": "/static/js/main.bfd910ce.js",
+    "index.html": "/index.html",
+    "main.7064deb2.css.map": "/static/css/main.7064deb2.css.map",
+    "main.bfd910ce.js.map": "/static/js/main.bfd910ce.js.map"
   },
   "entrypoints": [
     "static/css/main.7064deb2.css",
